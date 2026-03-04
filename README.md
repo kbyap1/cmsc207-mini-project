@@ -15,7 +15,7 @@ This is a personal web profile created for the CMSC 207 Mini-Project. It demonst
 * JavaScript
 
 ## How to View
-You can view the live project here: [will add once available]
+You can view the live project here: https://kbyap1.github.io/cmsc207-mini-project/
 
 ## Author
 Kenneth Methan Paul Yap (Chino)
